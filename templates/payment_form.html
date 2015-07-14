@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Payment form</title>
+</head>
+<body>
+	<form method='post' action="/process">
+		 <input name="amount" value=""/>
+		 <select name="currency">
+		 	{% for currency_id in currencies %}
+		 	<option value="{{ currency_id }}">{{ currencies[currency_id] }}</option>
+		 	{% endfor %}
+		 </select>
+		 <input type="submit" name="payway" value="Оплатить OKPay"/>
+		 <input type="submit" name="payway" value="Оплатить WalletOne"/>
+	</form>
+</body>
+</html>

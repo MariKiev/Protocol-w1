@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form name="payment" method="{{ form.method }}" action="{{ form.action }}" accept-charset="UTF-8">
+       {% for parameter_name in form.params %}
+       		<input type="hidden" name="{{ parameter_name }}" value="{{ form.params[parameter_name]}}" />
+       {% endfor %}
+        <input type="submit" value="Pay">
+    </form>
+</body>
+</html>
