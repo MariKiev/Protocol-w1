@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Balance</title>
+</head>
+<body>
+    <ul>
+        {% for currency in data %}
+            <li>{{ currency }} - {{ data[currency] }} </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

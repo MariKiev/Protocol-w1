@@ -3,7 +3,7 @@ import requests
 from collections import defaultdict
 from hashlib import md5
 import binascii
-from config import SECRET_KEY, MERCHANT_ID, PAYMENT_RESULT
+from config import SECRET_KEY, MERCHANT_ID, PAYMENT_RESULT, token
 
 PAY_TYPES = {
     u'Оплатить OKPay': 'Okpay',
@@ -21,7 +21,6 @@ CURRENCY = {
 }
 
 def get_invoice_info(ammount, currency_id, payway):
-
     dict_invoice = {
         'action': url,
         'method': method,
@@ -53,6 +52,14 @@ def payment_result():
         return 'RETRY&WMI_DESCRIPTION=Invalid sign'
 
     return 'OK'
+
+def balance():
+    headers =  {
+        "Authorization": "Bearer %s" % token,
+        "Accept": "application/vnd.wallet.openapi.v1+json"
+    }
+    response = requests.get('https://api.w1.ru/OpenApi/balance', headers=headers)
+    return response
 
 def get_signature(params, secret_key):
     """

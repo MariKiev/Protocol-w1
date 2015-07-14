@@ -525,3 +525,35 @@
 2015-07-14 13:34:01,255 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 2015-07-14 13:34:01,284 - INFO -  * Restarting with stat
 2015-07-14 13:34:03,643 - INFO - 127.0.0.1 - - [14/Jul/2015 13:34:03] "GET /callback HTTP/1.1" 200 -
+2015-07-14 14:00:59,986 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 14:00:59,990 - INFO -  * Restarting with stat
+2015-07-14 14:01:15,434 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:15] "GET / HTTP/1.1" 200 -
+2015-07-14 14:01:25,634 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:25] "GET /balance HTTP/1.1" 500 -
+2015-07-14 14:01:25,881 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:25] "GET /balance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 14:01:25,956 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:25] "GET /balance?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 14:01:25,969 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:25] "GET /balance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 14:01:26,294 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:26] "GET /balance?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 14:01:26,348 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:26] "GET /balance?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 14:01:26,581 - INFO - 127.0.0.1 - - [14/Jul/2015 14:01:26] "GET /balance?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 14:01:57,874 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 14:01:57,899 - INFO -  * Restarting with stat
+2015-07-14 14:02:03,210 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 14:02:03,233 - INFO -  * Restarting with stat
+2015-07-14 14:02:05,168 - INFO - Starting new HTTPS connection (1): api.w1.ru
+2015-07-14 14:02:05,378 - DEBUG - "GET /OpenApi/balance HTTP/1.1" 200 723
+2015-07-14 14:02:05,442 - INFO - 127.0.0.1 - - [14/Jul/2015 14:02:05] "GET /balance HTTP/1.1" 500 -
+2015-07-14 14:02:05,571 - INFO - 127.0.0.1 - - [14/Jul/2015 14:02:05] "GET /balance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 14:02:05,573 - INFO - 127.0.0.1 - - [14/Jul/2015 14:02:05] "GET /balance?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 14:02:05,575 - INFO - 127.0.0.1 - - [14/Jul/2015 14:02:05] "GET /balance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 14:02:05,748 - INFO - 127.0.0.1 - - [14/Jul/2015 14:02:05] "GET /balance?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 14:02:05,758 - INFO - 127.0.0.1 - - [14/Jul/2015 14:02:05] "GET /balance?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 14:03:13,871 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 14:03:13,875 - INFO -  * Restarting with stat
+2015-07-14 14:03:19,193 - INFO - Starting new HTTPS connection (1): api.w1.ru
+2015-07-14 14:03:19,396 - DEBUG - "GET /OpenApi/balance HTTP/1.1" 200 723
+2015-07-14 14:03:19,410 - INFO - 127.0.0.1 - - [14/Jul/2015 14:03:19] "GET /balance HTTP/1.1" 200 -
+2015-07-14 14:03:26,072 - INFO - 127.0.0.1 - - [14/Jul/2015 14:03:26] "GET / HTTP/1.1" 200 -
+2015-07-14 14:03:30,292 - INFO - 127.0.0.1 - - [14/Jul/2015 14:03:30] "POST /process HTTP/1.1" 200 -
+2015-07-14 14:03:43,823 - INFO - 127.0.0.1 - - [14/Jul/2015 14:03:43] "GET /callback HTTP/1.1" 200 -
+2015-07-14 14:04:04,582 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 14:04:04,607 - INFO -  * Restarting with stat
