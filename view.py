@@ -1,8 +1,9 @@
 # coding=utf-8
 from app import app, logger
 from flask import render_template, request
-from w1 import get_invoice_info, CURRENCY
+from w1 import get_invoice_info, CURRENCY, payment_result
 import requests
+import pprint
 
 
 @app.route('/')
@@ -15,3 +16,8 @@ def index():
     
     dict_invoice = get_invoice_info(data_form['amount'], data_form['currency'], data_form['payway'])
     return render_template('direct.html', form=dict_invoice)
+
+@app.route('/callback', methods=['GET','POST'])
+def callback():
+    result_status = payment_result()
+    return 'WMI_RESULT= %s' % result_status

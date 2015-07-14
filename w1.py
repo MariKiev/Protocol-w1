@@ -3,7 +3,7 @@ import requests
 from collections import defaultdict
 from hashlib import md5
 import binascii
-from config import SECRET_KEY, MERCHANT_ID
+from config import SECRET_KEY, MERCHANT_ID, PAYMENT_RESULT
 
 PAY_TYPES = {
     u'Оплатить OKPay': 'Okpay',
@@ -34,8 +34,25 @@ def get_invoice_info(ammount, currency_id, payway):
     }
 
     dict_invoice['params']['WMI_SIGNATURE'] = get_signature(dict_invoice['params'], SECRET_KEY)
-
     return dict_invoice
+
+def payment_result():
+    payment_result = PAYMENT_RESULT
+    
+    if "WMI_SIGNATURE" not in payment_result:
+        return u'RETRY&WMI_DESCRIPTION=Отсутствует параметр WMI_SIGNATURE'
+
+    if "WMI_PAYMENT_NO" not in payment_result:
+        return u'RETRY&WMI_DESCRIPTION=Отсутствует параметр WMI_PAYMENT_NO'
+
+    if "WMI_ORDER_STATE" not in payment_result:
+        return u'RETRY&WMI_DESCRIPTION=Отсутствует параметр WMI_ORDER_STATE'
+
+    payment_result_signature = payment_result.pop("WMI_SIGNATURE")
+    if get_signature(payment_result, SECRET_KEY) != payment_result_signature:
+        return 'RETRY&WMI_DESCRIPTION=Invalid sign'
+
+    return 'OK'
 
 def get_signature(params, secret_key):
     """

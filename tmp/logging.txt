@@ -264,3 +264,264 @@
 2015-07-14 10:38:38,463 - INFO -  * Restarting with stat
 2015-07-14 10:40:13,095 - INFO - 127.0.0.1 - - [14/Jul/2015 10:40:13] "GET / HTTP/1.1" 200 -
 2015-07-14 10:40:18,626 - INFO - 127.0.0.1 - - [14/Jul/2015 10:40:18] "POST /process HTTP/1.1" 200 -
+2015-07-14 11:00:32,150 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:00:32,174 - INFO -  * Restarting with stat
+2015-07-14 11:00:52,663 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:00:52,687 - INFO -  * Restarting with stat
+2015-07-14 11:25:39,992 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 11:25:39,997 - INFO -  * Restarting with stat
+2015-07-14 11:25:53,176 - INFO - 127.0.0.1 - - [14/Jul/2015 11:25:53] "GET /callback HTTP/1.1" 200 -
+2015-07-14 11:28:57,020 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:28:57,043 - INFO -  * Restarting with stat
+2015-07-14 11:43:21,309 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 11:43:21,314 - INFO -  * Restarting with stat
+2015-07-14 11:43:24,286 - INFO - 127.0.0.1 - - [14/Jul/2015 11:43:24] "GET /callback HTTP/1.1" 200 -
+2015-07-14 11:43:26,023 - INFO - 127.0.0.1 - - [14/Jul/2015 11:43:26] "GET /callback HTTP/1.1" 200 -
+2015-07-14 11:45:45,872 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:45:45,894 - INFO -  * Restarting with stat
+2015-07-14 11:45:54,214 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:45:54,238 - INFO -  * Restarting with stat
+2015-07-14 11:47:32,390 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:47:32,413 - INFO -  * Restarting with stat
+2015-07-14 11:47:40,193 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:40] "GET /callback HTTP/1.1" 500 -
+2015-07-14 11:47:40,520 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:40] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 11:47:40,564 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:40] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 11:47:40,612 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:40] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 11:47:40,885 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:40] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 11:47:40,913 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:40] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 11:47:41,171 - INFO - 127.0.0.1 - - [14/Jul/2015 11:47:41] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 11:48:12,103 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:48:12,133 - INFO -  * Restarting with stat
+2015-07-14 11:48:21,765 - INFO - 127.0.0.1 - - [14/Jul/2015 11:48:21] "GET /callback HTTP/1.1" 200 -
+2015-07-14 11:49:13,998 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:49:14,019 - INFO -  * Restarting with stat
+2015-07-14 11:49:15,693 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:49:48,591 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:49:48,617 - INFO -  * Restarting with stat
+2015-07-14 11:49:49,158 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:50:18,572 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 11:50:18,577 - INFO -  * Restarting with stat
+2015-07-14 11:50:23,781 - INFO - 127.0.0.1 - - [14/Jul/2015 11:50:23] "GET / HTTP/1.1" 200 -
+2015-07-14 11:50:29,902 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:51:17,573 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:51:17,599 - INFO -  * Restarting with stat
+2015-07-14 11:51:23,013 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:51:33,262 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:51:33,288 - INFO -  * Restarting with stat
+2015-07-14 11:51:35,607 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:53:35,624 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:53:35,649 - INFO -  * Restarting with stat
+2015-07-14 11:53:42,566 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:55:12,926 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:55:12,953 - INFO -  * Restarting with stat
+2015-07-14 11:55:43,058 - INFO - Starting new HTTP connection (1): localhost
+2015-07-14 11:56:18,050 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:56:18,076 - INFO -  * Restarting with stat
+2015-07-14 11:56:42,672 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 11:56:42,676 - INFO -  * Restarting with stat
+2015-07-14 11:57:13,224 - INFO - 127.0.0.1 - - [14/Jul/2015 11:57:13] "GET /callback HTTP/1.1" 200 -
+2015-07-14 11:57:36,496 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 11:57:36,522 - INFO -  * Restarting with stat
+2015-07-14 11:58:01,858 - INFO - 127.0.0.1 - - [14/Jul/2015 11:58:01] "GET /callback HTTP/1.1" 200 -
+2015-07-14 11:58:57,562 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:58:57,584 - INFO -  * Restarting with stat
+2015-07-14 11:59:19,121 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 11:59:19,146 - INFO -  * Restarting with stat
+2015-07-14 12:00:13,956 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:00:13,981 - INFO -  * Restarting with stat
+2015-07-14 12:15:17,821 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 12:15:17,825 - INFO -  * Restarting with stat
+2015-07-14 12:15:21,735 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:21] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:15:21,955 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:21] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:15:21,957 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:21] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:15:21,960 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:21] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:15:22,275 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:22] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:15:22,277 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:22] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:15:22,504 - INFO - 127.0.0.1 - - [14/Jul/2015 12:15:22] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:17:17,180 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:17:17,204 - INFO -  * Restarting with stat
+2015-07-14 12:17:21,335 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:17:21,486 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:17:21,488 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:17:21,490 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:17:21,635 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:17:21,640 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:17:21,828 - INFO - 127.0.0.1 - - [14/Jul/2015 12:17:21] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:18:35,940 - INFO - 127.0.0.1 - - [14/Jul/2015 12:18:35] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:18:36,131 - INFO - 127.0.0.1 - - [14/Jul/2015 12:18:36] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:18:36,136 - INFO - 127.0.0.1 - - [14/Jul/2015 12:18:36] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:18:36,138 - INFO - 127.0.0.1 - - [14/Jul/2015 12:18:36] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:18:36,301 - INFO - 127.0.0.1 - - [14/Jul/2015 12:18:36] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:18:36,302 - INFO - 127.0.0.1 - - [14/Jul/2015 12:18:36] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:19:18,583 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:19:18,611 - INFO -  * Restarting with stat
+2015-07-14 12:19:22,325 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:19:22,503 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:19:22,505 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:19:22,508 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:19:22,657 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:19:22,662 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:19:22,836 - INFO - 127.0.0.1 - - [14/Jul/2015 12:19:22] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:19:48,150 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:19:48,174 - INFO -  * Restarting with stat
+2015-07-14 12:20:00,624 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:20:00,650 - INFO -  * Restarting with stat
+2015-07-14 12:20:08,050 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:20:08,073 - INFO -  * Restarting with stat
+2015-07-14 12:20:15,179 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:20:15,406 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:20:15,413 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:20:15,442 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:20:15,549 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:20:15,553 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:20:15,698 - INFO - 127.0.0.1 - - [14/Jul/2015 12:20:15] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:20:54,777 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:20:54,804 - INFO -  * Restarting with stat
+2015-07-14 12:21:05,224 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:21:05,247 - INFO -  * Restarting with stat
+2015-07-14 12:23:52,017 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 12:23:52,040 - INFO -  * Restarting with stat
+2015-07-14 12:23:58,714 - INFO - 127.0.0.1 - - [14/Jul/2015 12:23:58] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:25:17,078 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:25:17,104 - INFO -  * Restarting with stat
+2015-07-14 12:25:52,666 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:25:52,690 - INFO -  * Restarting with stat
+2015-07-14 12:25:58,214 - INFO - 127.0.0.1 - - [14/Jul/2015 12:25:58] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:26:24,278 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:26:24,324 - INFO -  * Restarting with stat
+2015-07-14 12:26:28,183 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:26:28,318 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:26:28,321 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:26:28,323 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:26:28,458 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:26:28,463 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:26:28,569 - INFO - 127.0.0.1 - - [14/Jul/2015 12:26:28] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:30:06,523 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:30:06,547 - INFO -  * Restarting with stat
+2015-07-14 12:30:15,885 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:30:15,910 - INFO -  * Restarting with stat
+2015-07-14 12:30:28,301 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:30:28,327 - INFO -  * Restarting with stat
+2015-07-14 12:30:52,756 - INFO - 127.0.0.1 - - [14/Jul/2015 12:30:52] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:31:29,104 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:31:29,128 - INFO -  * Restarting with stat
+2015-07-14 12:31:35,513 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:31:35,536 - INFO -  * Restarting with stat
+2015-07-14 12:31:38,353 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:31:38,587 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:31:38,589 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:31:38,592 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:31:38,732 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:31:38,771 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:31:38,887 - INFO - 127.0.0.1 - - [14/Jul/2015 12:31:38] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:32:06,052 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:32:06,101 - INFO -  * Restarting with stat
+2015-07-14 12:32:07,632 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:07] "GET /callback?__debugger__=yes&cmd=source&frm=140378403068880&s=AhaCF3FZYaVF9ddvUWWF HTTP/1.1" 200 -
+2015-07-14 12:32:10,398 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:10] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:32:18,239 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:18] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:32:43,845 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:32:43,869 - INFO -  * Restarting with stat
+2015-07-14 12:32:44,558 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:44] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:32:44,821 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:32:44,823 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:32:44,825 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:32:44,967 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:32:44,974 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:32:45,112 - INFO - 127.0.0.1 - - [14/Jul/2015 12:32:45] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:33:35,581 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:33:35,606 - INFO -  * Restarting with stat
+2015-07-14 12:33:45,106 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:33:45,136 - INFO -  * Restarting with stat
+2015-07-14 12:33:48,363 - INFO - 127.0.0.1 - - [14/Jul/2015 12:33:48] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:34:23,717 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:34:23,745 - INFO -  * Restarting with stat
+2015-07-14 12:35:08,486 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:35:08,510 - INFO -  * Restarting with stat
+2015-07-14 12:35:09,972 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:09] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:35:10,121 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:10] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:35:10,125 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:10] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:35:10,129 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:10] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:35:10,279 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:10] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:35:10,307 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:10] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:35:10,421 - INFO - 127.0.0.1 - - [14/Jul/2015 12:35:10] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:36:18,484 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:36:18,512 - INFO -  * Restarting with stat
+2015-07-14 12:39:52,665 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:39:52,692 - INFO -  * Restarting with stat
+2015-07-14 12:40:07,181 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:40:07,219 - INFO -  * Restarting with stat
+2015-07-14 12:40:19,629 - INFO - 127.0.0.1 - - [14/Jul/2015 12:40:19] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:40:52,852 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:40:52,875 - INFO -  * Restarting with stat
+2015-07-14 12:42:41,193 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 12:42:41,221 - INFO -  * Restarting with stat
+2015-07-14 12:42:46,258 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 12:42:46,262 - INFO -  * Restarting with stat
+2015-07-14 12:42:48,401 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback HTTP/1.1" 500 -
+2015-07-14 12:42:48,525 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2015-07-14 12:42:48,528 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2015-07-14 12:42:48,530 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2015-07-14 12:42:48,633 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:42:48,635 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2015-07-14 12:42:48,763 - INFO - 127.0.0.1 - - [14/Jul/2015 12:42:48] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2015-07-14 12:43:17,860 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:43:17,885 - INFO -  * Restarting with stat
+2015-07-14 12:43:21,129 - INFO - 127.0.0.1 - - [14/Jul/2015 12:43:21] "GET /callback HTTP/1.1" 200 -
+2015-07-14 12:43:25,388 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:43:25,414 - INFO -  * Restarting with stat
+2015-07-14 12:45:58,033 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 12:45:58,060 - INFO -  * Restarting with stat
+2015-07-14 13:12:14,030 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 13:12:14,054 - INFO -  * Restarting with stat
+2015-07-14 13:12:50,600 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:12:50,623 - INFO -  * Restarting with stat
+2015-07-14 13:13:10,033 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:13:10,057 - INFO -  * Restarting with stat
+2015-07-14 13:13:34,629 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:13:34,659 - INFO -  * Restarting with stat
+2015-07-14 13:13:44,015 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:13:44,036 - INFO -  * Restarting with stat
+2015-07-14 13:16:44,875 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:16:44,906 - INFO -  * Restarting with stat
+2015-07-14 13:22:14,356 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 13:22:14,360 - INFO -  * Restarting with stat
+2015-07-14 13:22:20,008 - INFO - 127.0.0.1 - - [14/Jul/2015 13:22:20] "GET /callback HTTP/1.1" 200 -
+2015-07-14 13:22:33,874 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:22:33,903 - INFO -  * Restarting with stat
+2015-07-14 13:22:42,855 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 13:22:42,859 - INFO -  * Restarting with stat
+2015-07-14 13:22:45,590 - INFO - 127.0.0.1 - - [14/Jul/2015 13:22:45] "GET /callback HTTP/1.1" 200 -
+2015-07-14 13:24:19,122 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:24:19,149 - INFO -  * Restarting with stat
+2015-07-14 13:24:26,043 - INFO - 127.0.0.1 - - [14/Jul/2015 13:24:26] "GET /callback HTTP/1.1" 200 -
+2015-07-14 13:24:46,746 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:24:46,768 - INFO -  * Restarting with stat
+2015-07-14 13:25:29,415 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:25:29,438 - INFO -  * Restarting with stat
+2015-07-14 13:26:40,409 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:26:40,436 - INFO -  * Restarting with stat
+2015-07-14 13:26:43,800 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:26:43,824 - INFO -  * Restarting with stat
+2015-07-14 13:26:55,237 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:26:55,264 - INFO -  * Restarting with stat
+2015-07-14 13:27:43,588 - INFO - 127.0.0.1 - - [14/Jul/2015 13:27:43] "GET /callback HTTP/1.1" 200 -
+2015-07-14 13:30:03,630 - INFO - 127.0.0.1 - - [14/Jul/2015 13:30:03] "GET /callback HTTP/1.1" 200 -
+2015-07-14 13:30:07,341 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:30:07,368 - INFO -  * Restarting with stat
+2015-07-14 13:31:53,629 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 13:31:53,652 - INFO -  * Restarting with stat
+2015-07-14 13:32:04,031 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/view.py', reloading
+2015-07-14 13:32:04,077 - INFO -  * Restarting with stat
+2015-07-14 13:32:17,277 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 13:32:17,281 - INFO -  * Restarting with stat
+2015-07-14 13:33:11,095 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/config.py', reloading
+2015-07-14 13:33:11,119 - INFO -  * Restarting with stat
+2015-07-14 13:33:14,486 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:33:14,512 - INFO -  * Restarting with stat
+2015-07-14 13:33:41,008 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:33:41,052 - INFO -  * Restarting with stat
+2015-07-14 13:33:50,407 - INFO -  * Detected change in '/media/marik/2EEE7A49EE7A097B/Projects/w1/w1.py', reloading
+2015-07-14 13:33:50,431 - INFO -  * Restarting with stat
+2015-07-14 13:34:01,255 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2015-07-14 13:34:01,284 - INFO -  * Restarting with stat
+2015-07-14 13:34:03,643 - INFO - 127.0.0.1 - - [14/Jul/2015 13:34:03] "GET /callback HTTP/1.1" 200 -
